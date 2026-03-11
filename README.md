@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=imtanan483&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Imtanan1x&show_icons=true&theme=tokyonight)
 
 ---
 
