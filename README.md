@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imtanan Shahid
+# 👋 Hi, I'm Muhammad Imtanan Shahid
 
 🔐 Cyber Security Student  
 💻 Malware Analysis | Ethical Hacking | Networking  
