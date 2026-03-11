@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Imtanan Shahid
 
-<!--
-**Imtanan1x/Imtanan1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cyber Security Student  
+💻 Malware Analysis | Ethical Hacking | Networking  
+🎓 BS Cyber Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+
+- Python
+- C++
+- Linux
+- Wireshark
+- Malware Analysis
+- Network Security
+
+---
+
+## 🛠 Tools
+
+- Kali Linux
+- Wireshark
+- Metasploit
+- Burp Suite
+- Nmap
+
+---
+
+## 📚 Currently Learning
+
+- Malware Reverse Engineering
+- Digital Forensics
+- Penetration Testing
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=imtanan483&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/muhammad-imtanan-shahid-890532370?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+Email: imtananshahid2004@gmail.com
